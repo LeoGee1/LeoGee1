@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeoGee1
-- 👀 I’m interested in js and creating
-- 🌱 I’m currently learning js
+- 👀 I’m stacked with HTML, CSS, JS, ReactJS
+- 🌱 I’m currently using ReactJS
 - 💞️ I’m looking to collaborate on web and app development
 - 📫 How to reach me , ucheleonard2000@gmail.com
 
